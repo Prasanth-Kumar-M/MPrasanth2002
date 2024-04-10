@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/11/07/12/08/cyber-security-1805632_1280.png)
+![MasterHead](https://cdn.pixabay.com/photo/2016/11/07/12/08/cyber-security-1805632_1280.png)
 
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Malleboina</h1>
 <h3 align="center"> Passionate Cyber Security Enthusiast</h3>
