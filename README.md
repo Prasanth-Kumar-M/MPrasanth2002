@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.pixabay.com/photo/2016/11/07/12/08/cyber-security-1805632_1280.png)
 
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Malleboina</h1>
-<h3 align="center"> Passionate Cyber Security Enthusiast</h3>
+<h3 align="center"> Cyber Security Enthusiast, Security Researcher, Bug Hunter, CTF Competitor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprasanth2002&label=Profile%20views&color=0e75b6&style=flat" alt="mprasanth2002" /> </p>
 
