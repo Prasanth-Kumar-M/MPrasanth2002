@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MPrasanth2002/MPrasanth2002](https://github.com/MPrasanth2002/MPrasanth2002)
 
-- 📫 How to reach me **prasanthkumarmalleboiena@gmail.com**
+- 📫 How to reach me **workwithprasha@gmail.com**
 
 - ⚡ Fun fact **I am a Spy**
 
